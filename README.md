@@ -11,7 +11,7 @@ About me
 - 🌱 I’m currently learning TypeScript
 - 👯 I'm looking for a better platform
 - 📫 How to reach me: 18801259542
-- 💬 Ask me about ...
+- 💬 Ask me about anything
 
 Languages and Tools
 
