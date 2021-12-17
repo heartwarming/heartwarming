@@ -1,6 +1,4 @@
-heartwarming/README.MD
-### Hi!!!   I am heartwarming👋
-### I do FE
+### Hi👋
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartwarming&show_icons=true&theme=radical)
 <!--
