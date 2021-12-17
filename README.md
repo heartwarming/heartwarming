@@ -19,5 +19,7 @@ Languages and Tools
 ![](https://img.shields.io/badge/TS-rgb(4,128,217))
 ![](https://img.shields.io/badge/Vue-rgb(0,193,128))
 ![](https://img.shields.io/badge/React-rgb(47,215,255))
+![](https://img.shields.io/badge/Webpack-rgb(43,59,66))
+![](https://img.shields.io/badge/Vite-rgb(0,193,128))
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartwarming&show_icons=true&theme=radical)
