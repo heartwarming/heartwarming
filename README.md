@@ -24,6 +24,9 @@ Languages and Tools
 ![](https://img.shields.io/badge/Vite-rgb(0,193,128))
 
 
-[!Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartwarming&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartwarming&show_icons=true&theme=radical)
+<!--END_SECTION:waka-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartwarming&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
