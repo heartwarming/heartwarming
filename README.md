@@ -25,8 +25,8 @@ Languages and Tools
 
 
 <!--START_SECTION:waka-->
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartwarming&show_icons=true&theme=radical)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartwarming&show_icons=true&theme=radical&count_private=true)
 <!--END_SECTION:waka-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartwarming&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartwarming&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
